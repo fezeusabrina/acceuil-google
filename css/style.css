@@ -1,0 +1,36 @@
+/*----------------Author : Feuzeu Sabrina Audrey----------------*/
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(240, 240, 240);
+}
+
+.contenair{
+    width: 500px;
+    height: 200px;
+}
+
+.contenair .titre{
+    text-align: center;
+    font-size: 8em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(131, 131, 131);
+    margin-bottom: 20px;
+}
+
+input{
+    width: 100%;
+    height: 40px;
+    border-radius: 50px;
+    font-size: 1.2em;
+    padding-left: 15px;
+    border: 1px solid black;
+}
